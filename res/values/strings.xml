@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjercicioServicioDasm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="consultar">Consultar</string>
+    <string name="boton_consultar">consultar</string>
+    <string name="progress_title">mensaje de cargando</string>
+    <string name="dni">DNI</string>
+
+</resources>
